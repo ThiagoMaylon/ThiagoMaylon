@@ -1,5 +1,5 @@
 ## olá!!, eu sou o Thiago Maylon
-- 🌱 I’m currently learning: HTML, CSS, JavaScript, Python
+- 🌱 estou estudando: HTML, CSS, JavaScript, Python
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
