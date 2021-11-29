@@ -1,6 +1,6 @@
 ## olá!!, eu sou o Thiago Maylon
 - 🌱 estou estudando: HTML, CSS, JavaScript, Python
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/ThiagoMaylon">
